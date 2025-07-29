@@ -5,8 +5,7 @@
     <classes>
       <class name="automationtesting.SauceDemoTesting">
         <methods>
-          <include name="testingFilterandAddItemtocart" invocation-numbers="2"/>
-          <include name="closeapp"/>
+          <include name="testingFilterandAddItemtocart" invocation-numbers="0 2"/>
           <include name="launchapp"/>
         </methods>
       </class> <!-- automationtesting.SauceDemoTesting -->
